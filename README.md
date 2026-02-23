@@ -33,9 +33,9 @@ This is a Python based Smart Agriculture Monitoring System developed as a univer
 1. Make sure Python is installed.
 2. Install Pillow library: 
    pip install pillow
-3. Run the program for Graphical interface (GUI):
+3. Run the program for Graphical interface (GUI) :
    python GUI.py
-4. Run the program for text based:
+4. Run the program for text based :
    python TextBasedCodes.py
 
 ---
