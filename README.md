@@ -1,7 +1,7 @@
 # Smart Agriculture Monitoring System (Python Project)
 
 ## Overview
-This is a Python-based Smart Agriculture Monitoring System developed as a university project. The system allows users to manage farmers, technicians, agricultural tasks, observations, and financial records in an organized way.
+This is a Python based Smart Agriculture Monitoring System developed as a university project. The system allows users to manage farmers, technicians, agricultural tasks, observations and financial records in an organized way.
 
 **It supports:**
 * GUI based interface (Tkinter)
@@ -18,7 +18,7 @@ This is a Python-based Smart Agriculture Monitoring System developed as a univer
 
 ## Features
 * Add/View/Remove farmers and technicians
-* Create, manage, and assign tasks
+* Create, manage and assign tasks
 * Mark tasks as completed
 * Add farmer observations and financial transactions
 * Calculate total revenue
@@ -32,9 +32,9 @@ This is a Python-based Smart Agriculture Monitoring System developed as a univer
 ## How to Run
 1. Make sure Python is installed.
 2. Install Pillow library: 
-   `pip install pillow`
+   pip install pillow
 3. Run the program:
-   `python main.py`
+   python main.py
 
 ---
 **Notes:** All data is stored locally using Pickle. Duplicate IDs are prevented for better data integrity.
